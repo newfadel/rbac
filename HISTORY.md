@@ -1,4 +1,5 @@
-# Change/History Log
+Dari konten `HISTORY.md` yang aku lihat, sepertinya tidak ada masalah tipografi atau formatting kritis.
 
-This project adheres to [Semantic Versioning](http://semver.org/).
-Every release, along with the migration instructions, is documented on the Github [Releases](https://github.com/seeden/rbac/releases) page.
+*   Link ke [Semantic Versioning](http://semver.org/) dan [Github Releases](https://github.com/seeden/rbac/releases) terlihat benar.
+
+Tidak ada heading yang terlihat di potongan teks ini, jadi aku tidak bisa berkomentar tentang heading.
